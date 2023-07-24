@@ -2,11 +2,11 @@
 
 The Priority Queue Using Linked List is a Java-based project that implements a priority queue data structure using a linked list. The project aims to efficiently assign doctors to patients based on their medical needs, giving priority to patients with emergency cases.
 
-## Project Overview
+## Overview
 
 In this project, we have implemented a priority queue data structure using a linked list to manage patient information. Each patient in the priority queue has associated data, such as their name, medical condition, and priority level. The priority level determines the order in which patients are served, with emergency cases receiving the highest priority.
 
-## Project Features
+## Features
 
 1. **Priority Queue Implementation**: We have built a custom priority queue class using a linked list to efficiently handle patient data. The priority queue enqueues patients according to their priority levels and dequeues them in the order of their priority.
 
@@ -16,7 +16,7 @@ In this project, we have implemented a priority queue data structure using a lin
 
 4. **Dynamic Patient Assignment**: The priority queue allows for dynamic patient assignment as new patients arrive. The system automatically places patients in the queue based on their priority level, ensuring a smooth and efficient process.
 
-## Project Benefits
+## Benefits
 
 - Efficiently manages patient data with varying priority levels.
 - Prioritizes emergency cases, potentially saving lives and improving patient outcomes.
